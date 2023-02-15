@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "atob": "^2.1.2",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.21",
     "upper-case": "^2.0.2"
   },
@@ -15,5 +17,13 @@
   "description": "",
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshokkumarAnnadurai/temp-node-tut.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AshokkumarAnnadurai/temp-node-tut/issues"
+  },
+  "homepage": "https://github.com/AshokkumarAnnadurai/temp-node-tut#readme"
 }
