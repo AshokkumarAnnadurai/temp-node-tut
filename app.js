@@ -10,10 +10,11 @@
 // npm init(step by step, press enter to skip)
 // npm init -y (everything default)
 
-const _ = require('lodash')
+// const _ = require('lodash')
 
-const items  = [1,[2,[3,[4]]]]
-const newitems = _.flattenDeep(items)
+// const items  = [1,[2,[3,[4]]]]
+// const newitems = _.flattenDeep(items)
 
-console.log(newitems);
-console.log("hello people")
+// console.log(newitems);
+// console.log("hello people")
+
